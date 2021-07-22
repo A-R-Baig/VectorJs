@@ -1,0 +1,15 @@
+{
+  "name": "physicsengine",
+  "version": "1.0.0",
+  "description": "Math engine ",
+  "main": "index.js",
+  "dependencies": {
+    "mathjs": "^6.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
